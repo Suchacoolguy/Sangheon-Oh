@@ -1,2 +1,2 @@
 # Sangheon-Oh
-to publish my GitHub blog using Jekyll
+to publish my GitHub blog using Docker, Jekyll
